@@ -6,5 +6,6 @@ A repository to make available my presentation and codes of my final project for
 Here's the [video](https://www.youtube.com/watch?v=1136pUuPqew) explanation (in Portuguese): 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1136pUuPqew/0.jpg)](https://www.youtube.com/watch?v=1136pUuPqew)
+
 https://www.youtube.com/watch?v=1136pUuPqew
 
